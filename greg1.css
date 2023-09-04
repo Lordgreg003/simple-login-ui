@@ -1,0 +1,42 @@
+body {
+  background-image: url(images/greg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  /* margin: 0px; */
+}
+div.ex2 {
+  background: #ffffff;
+  width: 500px;
+  height: 500px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button {
+  width: 100%;
+  padding: 10px;
+  color: white;
+  background-color: blue;
+  text-align: center;
+  border-radius: 10px;
+}
+div.ex1 {
+  border: 1px transparent;
+  background-color: #ccf0e3;
+  padding: 20px;
+  padding-bottom: 49px;
+}
+form.ex1 {
+  padding: 50px;
+}
+.input {
+  border-style: groove;
+  border-width: 1px;
+  border-radius: 3px;
+  padding: 6px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+}
